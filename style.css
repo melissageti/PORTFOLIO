@@ -135,7 +135,7 @@ ul li:hover a {
 
 /* Parallax Section */
 .banner {
-	background-color: #2D9AB7;
+	background-color: #4b0082;
 	background-image: url("../images/3.jpg");
 	height: 400px;
 	background-attachment: fixed;
@@ -169,13 +169,13 @@ footer {
 }
 .footer_column {
 	width: 50%;
-	text-align: center;
+	text-align: left;
 	padding-top: 30px;
 	float: left;
 }
 footer .footer_column h3 {
 	color: #B3B3B3;
-	text-align: center;
+	text-align: left;
 }
 footer .footer_column p {
 	color: #FFFFFF;
@@ -239,7 +239,7 @@ footer .footer_column p {
 	border-top-width: 2px;
 }
 .footer_banner {
-	background-color: #B3B3B3;
+	background-color: #4b0082;
 	padding-top: 60px;
 	padding-bottom: 60PX;
 	margin-bottom: 0px;
